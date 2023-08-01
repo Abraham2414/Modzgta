@@ -1,0 +1,124 @@
+<html>
+<head>
+  <title>Mods para GTA San Andreas - Estilo Mexicano</title>
+  <style>
+    body {
+      background-color: #303030; /* Color de fondo gris oscuro */
+      color: #ffffff; /* Color de texto blanco */
+      font-family: "Arial", sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 48px;
+      padding: 20px 0;
+      color: #f7ce16; /* Color de texto amarillo de Rockstar */
+      text-shadow: 2px 2px 4px #1c1c1c; /* Sombra para resaltar el título */
+    }
+
+    p {
+      font-size: 20px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      font-size: 32px;
+      margin-top: 40px;
+      color: #f7ce16; /* Color de texto amarillo de Rockstar */
+      text-shadow: 1px 1px 2px #1c1c1c; /* Sombra para resaltar los subtítulos */
+    }
+
+    ul {
+      list-style-type: disc;
+      padding-left: 40px;
+    }
+
+    li {
+      font-size: 20px;
+      line-height: 1.6;
+    }
+
+    .contact-info {
+      text-align: center;
+      margin-top: 40px;
+    }
+
+    .contact-info p {
+      font-size: 18px;
+    }
+
+    .contact-info a {
+      color: #f7ce16;
+      text-decoration: none;
+    }
+
+    .contact-info a:hover {
+      text-decoration: underline;
+    }
+
+    .credits {
+      margin-top: 40px;
+      text-align: center;
+    }
+
+    .credits p {
+      font-size: 18px;
+    }
+
+    .credits img {
+      max-width: 300px;
+      margin: 10px;
+    }
+
+    .mod-info {
+      margin-top: 40px;
+      text-align: center;
+    }
+
+    .mod-info p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>¡Prepárate para la acción mexicana en GTA San Andreas!</h1>
+
+  <p>Bienvenido a nuestro sitio de mods para Grand Theft Auto San Andreas en Android, donde podrás transformar tu juego en una emocionante experiencia mexicana. Aquí encontrarás los mods más increíbles y auténticos para darle un toque mexicano a tu GTA San Andreas.</p>
+
+  <h2>Descubre una nueva dimensión mexicana para tu GTA:</h2>
+  <ul>
+    <li>Convierte a CJ en el mismísimo presidente AMLO y recorre las calles de Los Santos liderando el país.</li>
+    <li>Cambia los vehículos estándar por auténticos autos de la policía mexicana y desata la ley en tu propio estilo.</li>
+    <li>Añade lugares emblemáticos como Oxxo y Pemex en tu mundo GTA, ¡para que nunca falte la diversión!</li>
+    <li>Explora nuevos escenarios inspirados en México y vive emocionantes misiones que te sumergirán en la cultura y tradiciones del país.</li>
+  </ul>
+
+  <p>¡No esperes más para experimentar la emoción y el encanto mexicano en tu GTA San Andreas! Descarga nuestros mods y prepárate para una nueva y emocionante aventura en el mundo del crimen y la diversión en las calles de San Andreas.</p>
+
+  <div class="credits">
+    <h2>Créditos del Mod:</h2>
+    <p>Los créditos al creador de este mod, creeperjake2504, por su increíble trabajo en la creación de la Mercedes Sprinter | Ambulancia Cruz Roja 1.0 para el juego GTA San Andreas. ¡Gracias por tu dedicación y talento!</p>
+    <img src="mercedes-sprinter-ambulancia-cruz-roja_1685999360_759266.jpg" alt="Mercedes Sprinter - Ambulancia Cruz Roja">
+    <img src="mercedes-sprinter-ambulancia-cruz-roja_1685999360_180423.jpg" alt="Mercedes Sprinter - Ambulancia Cruz Roja">
+    <img src="mercedes-sprinter-ambulancia-cruz-roja_1685999360_943081.jpg" alt="Mercedes Sprinter - Ambulancia Cruz Roja">
+  </div>
+
+  <div class="mod-info">
+    <h2>Información del Mod:</h2>
+    <p>Características:</p>
+    <ul>
+      <li>El modelo es compatible con las funciones principales del motor del juego.</li>
+      <li>Modelo HQ de alta calidad.</li>
+      <li>Interior detallado.</li>
+      <li>Faros sintonizados.</li>
+      <li>Funcionamiento de luces de freno, luces de estacionamiento, indicadores de dirección.</li>
+      <li>Carrocería, faros y lunas rompibles.</li>
+    </ul>
+    <p>Su velocidad máxima de descarga está limitada a 0,5 MB/s. Inicia sesión para descargar archivos 3 veces más rápido y sin esperas En el apartado que creastes en el anterior momento
+      p>Descarga el mod "Mercedes Sprinter | Ambulancia Cruz Roja 1.0" aquí: <a href="https://www.mediafire.com/file/c8iglf9l7h2kckh/Ambulancia_Cruz_Roja_1.0.rar/file" target="_blank">Descargar</a></p>
+  </div>
